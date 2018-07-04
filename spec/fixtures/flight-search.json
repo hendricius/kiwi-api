@@ -1,0 +1,310 @@
+{
+  "airlinesList": [
+
+  ],
+  "search_params": {
+    "to_type": "anywhere",
+    "flyFrom_type": "airport",
+    "seats": {
+      "infants": 0,
+      "passengers": 1,
+      "adults": 1,
+      "children": 0
+    }
+  },
+  "hashtags": [
+    {
+      "count": 8,
+      "name": "duration:4-5"
+    },
+    {
+      "count": 9,
+      "name": "departure:20-21"
+    },
+    {
+      "count": 16,
+      "name": "duration:2-3"
+    },
+    {
+      "count": 1,
+      "name": "departure:22-23"
+    },
+    {
+      "count": 16,
+      "name": "duration:3-4"
+    },
+    {
+      "count": 1,
+      "name": "duration:0-1"
+    },
+    {
+      "count": 12,
+      "name": "tuesday"
+    },
+    {
+      "count": 79,
+      "name": "direct"
+    },
+    {
+      "count": 10,
+      "name": "departure:11-12"
+    },
+    {
+      "count": 1,
+      "name": "duration:6-7"
+    },
+    {
+      "count": 3,
+      "name": "departure:16-17"
+    },
+    {
+      "count": 7,
+      "name": "saturday"
+    },
+    {
+      "count": 34,
+      "name": "duration:1-2"
+    },
+    {
+      "count": 3,
+      "name": "departure:12-13"
+    },
+    {
+      "count": 3,
+      "name": "departure:18-19"
+    },
+    {
+      "count": 5,
+      "name": "departure:6-7"
+    },
+    {
+      "count": 25,
+      "name": "thursday"
+    },
+    {
+      "count": 10,
+      "name": "sunday"
+    },
+    {
+      "count": 3,
+      "name": "departure:21-22"
+    },
+    {
+      "count": 4,
+      "name": "departure:17-18"
+    },
+    {
+      "count": 4,
+      "name": "departure:8-9"
+    },
+    {
+      "count": 7,
+      "name": "departure:19-20"
+    },
+    {
+      "count": 27,
+      "name": "evening"
+    },
+    {
+      "count": 6,
+      "name": "monday"
+    },
+    {
+      "count": 14,
+      "name": "friday"
+    },
+    {
+      "count": 5,
+      "name": "departure:9-10"
+    },
+    {
+      "count": 5,
+      "name": "departure:13-14"
+    },
+    {
+      "count": 5,
+      "name": "departure:14-15"
+    },
+    {
+      "count": 3,
+      "name": "departure:7-8"
+    },
+    {
+      "count": 3,
+      "name": "departure:10-11"
+    },
+    {
+      "count": 5,
+      "name": "wednesday"
+    },
+    {
+      "count": 38,
+      "name": "morning"
+    },
+    {
+      "count": 29,
+      "name": "afternoon"
+    },
+    {
+      "count": 6,
+      "name": "departure:15-16"
+    },
+    {
+      "count": 3,
+      "name": "duration:5-6"
+    }
+  ],
+  "connections": [
+
+  ],
+  "currency": "EUR",
+  "_results": 1,
+  "airportsList": [
+
+  ],
+  "currency_rate": 1.0,
+  "all_stopover_airports": [
+
+  ],
+  "location_hashtags": [
+    "sightseeing&culture",
+    "nature",
+    "activities",
+    "family fun",
+    "beach",
+    "nightlife",
+    "romance",
+    "sports",
+    "events",
+    "adventure",
+    "diving&snorkeling",
+    "unusual",
+    "food&drink",
+    "music",
+    "short break",
+    "surfing"
+  ],
+  "data": [
+    {
+      "aTimeUTC": 1549016700,
+      "mapIdfrom": "hamburg",
+      "has_airport_change": false,
+      "p3": 1,
+      "price": 30,
+      "hashtags": [
+        "morning",
+        "friday",
+        "direct",
+        "duration:1-2",
+        "departure:9-10"
+      ],
+      "distance": 811.73,
+      "conversion": {
+        "EUR": 30
+      },
+      "bags_price": {
+        "1": 25.0,
+        "2": 50.0
+      },
+      "cityTo": "Manchester",
+      "transfers": [
+
+      ],
+      "flyFrom": "HAM",
+      "id": "4036307435174376_0",
+      "duration": {
+        "total": 6300,
+        "return": 0,
+        "departure": 6300
+      },
+      "dTimeUTC": 1549010400,
+      "p2": 1,
+      "countryFrom": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "p1": 1,
+      "mapIdto": "manchester",
+      "nightsInDest": null,
+      "dTime": 1549014000,
+      "found_on": [
+        "deprecated"
+      ],
+      "airlines": [
+        "FR"
+      ],
+      "booking_token": "TjFsU9KOyjpEDqm5dNSrO1ZjuRMVMgZrERrSppD325T6P8+P9w468E+3gYirNKm0xjFEaQ8brFkJXYHcFnHHQCLzHIOgXdSALYw+1E9gBHxi27iiy7p+0WZDDMIs4tgwuzKT5FwR31+oWSng4VpNgdtqTGQyKLNH5guV23pI7z9XWvy4zV+QkZRXHA1z/p8e7GYtw6EHojYD9wtMKAUsilYkiKWlpN9ASfn+iuj2tXN+IaiKMqw8WDEHnlRMUo103I+ifcgap8/7uanYLa/J/2B0bjSrR78AWQ4orMpsPEVKFg/yJ4toQ8E2zgHEsWwtdzCR6sVZ9sQVvVgXQbCFDLISqLfrOkFKbmYBd1Ia44Og1/J/m54v2JliKonu9dsoa4YS+PbwHkptt8w/eAiQG5eU7als3fabmHidC5deBK0vRwYYu9IdJW2c+KvBTRRLHDySanThX95UqKEQFZ+scqR+cvdRUE4Z7n7+l/+97tnHRbwu72/iG2ZmrrpTDDOEY9jzaTipHnekWybRMK1VdADhHTefUrve790xom3ACqkLw40Bo9cWOoQf3A+nM7mARZ4LveUmoPzvla6CvI/odB4suJglcyaDS9pzgmh53PEeFNn8lrEMDt5BQs+i+JinfoZODXa/FexxW6GwIKHT8MGhjzhO3wr5+kc5MJbuRMM=",
+      "flyTo": "MAN",
+      "pnr_count": 1,
+      "fly_duration": "1h 45m",
+      "facilitated_booking_available": true,
+      "routes": [
+        [
+          "HAM",
+          "MAN"
+        ]
+      ],
+      "cityFrom": "Hamburg",
+      "aTime": 1549016700,
+      "countryTo": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "route": [
+        {
+          "aTimeUTC": 1549016700,
+          "refresh_timestamp": 1530611990,
+          "bags_recheck_required": false,
+          "return": 0,
+          "latTo": 53.353611,
+          "flight_no": 3502,
+          "price": 1,
+          "original_return": 0,
+          "operating_carrier": null,
+          "fare_basis": "TZ4LOW",
+          "cityTo": "Manchester",
+          "mapIdfrom": "hamburg",
+          "lngFrom": 9.988333,
+          "vehicle_type": "aircraft",
+          "flyFrom": "HAM",
+          "id": "4036307435174376_0",
+          "dTimeUTC": 1549010400,
+          "equipment": null,
+          "mapIdto": "manchester",
+          "combination_id": "4036307435174376",
+          "dTime": 1549014000,
+          "fare_family": "",
+          "found_on": "deprecated",
+          "flyTo": "MAN",
+          "source": "deprecated",
+          "latFrom": 53.630278,
+          "airline": "FR",
+          "fare_classes": "T",
+          "lngTo": -2.275,
+          "cityFrom": "Hamburg",
+          "aTime": 1549016700,
+          "guarantee": false,
+          "last_seen": 1530611990
+        }
+      ],
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 20,
+        "hand_height": 20,
+        "hand_weight": 10
+      }
+    }
+  ],
+  "ref_tasks": [
+
+  ],
+  "refresh": [
+
+  ],
+  "del": 0,
+  "all_airlines": [
+
+  ],
+  "time": 1
+}

@@ -12,6 +12,9 @@ Gem::Specification.new do |s|
   s.license     = 'MIT'
   s.test_files  = Dir.glob('{spec/**/*}')
 
+  s.add_development_dependency 'webmock', '~> 3.4'
+  s.add_development_dependency "pry", "~> 0.10.4"
+
   s.add_runtime_dependency 'faraday'
   s.add_runtime_dependency 'hashie'
 end

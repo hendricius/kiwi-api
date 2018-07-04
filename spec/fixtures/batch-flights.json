@@ -1,0 +1,5878 @@
+[
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "afternoon",
+          "friday",
+          "direct",
+          "duration:7-8",
+          "departure:15-16"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3974735115225631_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549044300,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549018800,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549033200,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549047900,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 61,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3974735115225631_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530671246,
+            "source": "deprecated",
+            "combination_id": "3974735115225631",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "388",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549044300,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549018800,
+            "latTo": 53.630278,
+            "dTime": 1549033200,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549047900,
+            "last_seen": 1530671245
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "monday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4236418332077509_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549874100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549870500,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549874100,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549877700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4236418332077509_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530659384,
+            "source": "deprecated",
+            "combination_id": "4236418332077509",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549874100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549870500,
+            "latTo": 53.630278,
+            "dTime": 1549874100,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549877700,
+            "last_seen": 1530659384
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcJystDocj3FVohH6O4A8W9u/edS9aC6OAS/0o2kbNBVN3WfMXEKMUr/qHIiGB8/BrhZF890YU6/skbK/v7HMIE3AEi+AsNEOsFlXE5TBRnz4c2IOgf9EA+Ce/KYdkHBaaZtRbarQKguAnWlQPKbrLHrA8v7m3WbXcuFtJsysyH3sICtKsmuCAFJdAGTh0v+CiF+VH+8iBEQSjDVSK9tcx8c54jo+yR7ElLPowpUTRoBg="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "afternoon",
+          "friday",
+          "direct",
+          "duration:7-8",
+          "departure:15-16"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3974735115225631_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549044300,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549018800,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549033200,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549047900,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 61,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3974735115225631_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530671246,
+            "source": "deprecated",
+            "combination_id": "3974735115225631",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "388",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549044300,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549018800,
+            "latTo": 53.630278,
+            "dTime": 1549033200,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549047900,
+            "last_seen": 1530671245
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "wednesday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4034108693878404_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549442100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549438500,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549442100,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549445700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4034108693878404_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530658826,
+            "source": "deprecated",
+            "combination_id": "4034108693878404",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549442100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549438500,
+            "latTo": 53.630278,
+            "dTime": 1549442100,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549445700,
+            "last_seen": 1530658825
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcJystDocj3FVohH6O4A8W9u/edS9aC6OAS/0o2kbNBVPfpsz2ocFswENiVWi6GLbNVUkfT176tmTsd7l3yp+TzhFaeuW4YAk5bWmx6h2OSBlyjMxBqEiRTXs09Xm+aMzPpuEO3oo4zUitzdEHDUSiRWx26XTZx6NRGtemVJwM+1FHm+f2PNPr2fYP7viulhPiU6PVgx6QQJ69QDa0kS/QTJ5ACFjijQRKIURm4rQCWco="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "afternoon",
+          "friday",
+          "direct",
+          "duration:7-8",
+          "departure:15-16"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3974735115225631_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549044300,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549018800,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549033200,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549047900,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 61,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3974735115225631_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530671246,
+            "source": "deprecated",
+            "combination_id": "3974735115225631",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "388",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549044300,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549018800,
+            "latTo": 53.630278,
+            "dTime": 1549033200,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549047900,
+            "last_seen": 1530671245
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "thursday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4042904656320036_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549528500,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549524900,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549528500,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549532100,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4042904656320036_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530593876,
+            "source": "deprecated",
+            "combination_id": "4042904656320036",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549528500,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549524900,
+            "latTo": 53.630278,
+            "dTime": 1549528500,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549532100,
+            "last_seen": 1530593876
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcJystDocj3FVohH6O4A8W9u/edS9aC6OAS/0o2kbNBVOfQ8hUGWwsZkjSsstZWaFQbVfaRco710BkjAtF+nCX7xloRsZSSg/9tN1iEPK5e+TZDiDV8L44B1egrHqQ1zvYUyo98J8OE2QeM53UaTYdQvbsu0G1hpWgRYYxT16OEXYkRDSki5Chxly6e96KIjrcXf6zqHa6hGforLRhUZWhwjy9GKZGTEhXjJAg9ev8sYg="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "afternoon",
+          "friday",
+          "direct",
+          "duration:7-8",
+          "departure:15-16"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3974735115225631_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549044300,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549018800,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549033200,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549047900,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 61,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3974735115225631_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530671246,
+            "source": "deprecated",
+            "combination_id": "3974735115225631",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "388",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549044300,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549018800,
+            "latTo": 53.630278,
+            "dTime": 1549033200,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549047900,
+            "last_seen": 1530671245
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "friday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4006621072880590_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1550219700,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1550216100,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1550219700,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1550223300,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4006621072880590_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530692394,
+            "source": "deprecated",
+            "combination_id": "4006621072880590",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1550219700,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1550216100,
+            "latTo": 53.630278,
+            "dTime": 1550219700,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1550223300,
+            "last_seen": 1530692394
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcJystDocj3FVohH6O4A8W9u/edS9aC6OAS/0o2kbNBVO2pm67HG04BMb1dcO8I68yHgksaPk2zqEsd8CIFOlPbd40zrpFtHZslNYdpCGcioyt0RUCfwZ9nt4kpSWUvZKMw2apQs9jcP4zcEbqlUYbQnR1oOAsWwzgM5KOLBnVerJD/FgCilvmfkqC6YncmnH0XUrCJBxU4AIq4mf+zhhO8tb+I24AY6oAbNOsLs3pFWM="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "afternoon",
+          "friday",
+          "direct",
+          "duration:7-8",
+          "departure:15-16"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3974735115225631_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549044300,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549018800,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549033200,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549047900,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 61,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3974735115225631_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530671246,
+            "source": "deprecated",
+            "combination_id": "3974735115225631",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "388",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549044300,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549018800,
+            "latTo": 53.630278,
+            "dTime": 1549033200,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549047900,
+            "last_seen": 1530671245
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "tuesday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "3985730347111759_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549960500,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549956900,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549960500,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549964100,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "3985730347111759_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530584996,
+            "source": "deprecated",
+            "combination_id": "3985730347111759",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549960500,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549956900,
+            "latTo": 53.630278,
+            "dTime": 1549960500,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549964100,
+            "last_seen": 1530584996
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcJystDocj3FVohH6O4A8W9u/edS9aC6OAS/0o2kbNBVO3J4n3HAKDOGjrctzuu6kRo478K2s7Anm4xkssWVAvvSspMwcfLLY/Ld5xxbGtfycyTJVcTMlsZrSNOHctQR/ga5hH6vt3lTitQsQCAIxhtX6wungrLZA1TMqLXPVFWCgBHNJFQ2wdTUk3YzmjIWJdxm28N7634B5Y3c4o62dRc4hNtErVLVQ6wiKvPK8onnA="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "morning",
+          "sunday",
+          "direct",
+          "duration:7-8",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3956043433554454_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549194900,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549169400,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549183800,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549198500,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 59,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3956043433554454_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530673056,
+            "source": "deprecated",
+            "combination_id": "3956043433554454",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "77W",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549194900,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549169400,
+            "latTo": 53.630278,
+            "dTime": 1549183800,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549198500,
+            "last_seen": 1530673056
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "monday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4236418332077509_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549874100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549870500,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549874100,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549877700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4236418332077509_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530659384,
+            "source": "deprecated",
+            "combination_id": "4236418332077509",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549874100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549870500,
+            "latTo": 53.630278,
+            "dTime": 1549874100,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549877700,
+            "last_seen": 1530659384
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcBqVbM5wSFt3ElUNsAoqtxObks60QHKoBR9KN0aCQh+HLl8/MlzdiMobVyLqnreypNO9uCl9tMfGnqcA9Fx8b988z/SMrSC+mMl9rFAGjM4PjEw/p+sslq6d8wn4zFs8djk746ASHn1P8c1C4L92trC/PHC8paVZ5G2W9YyMdT6QaWz/F7p6IuXieBxXlB4Nn7jexe761t5CtbePiWpDSoovO2pDefAoO2yL2iKIyHAQ="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "morning",
+          "sunday",
+          "direct",
+          "duration:7-8",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3956043433554454_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549194900,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549169400,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549183800,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549198500,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 59,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3956043433554454_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530673056,
+            "source": "deprecated",
+            "combination_id": "3956043433554454",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "77W",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549194900,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549169400,
+            "latTo": 53.630278,
+            "dTime": 1549183800,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549198500,
+            "last_seen": 1530673056
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "wednesday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4034108693878404_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549442100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549438500,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549442100,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549445700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4034108693878404_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530658826,
+            "source": "deprecated",
+            "combination_id": "4034108693878404",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549442100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549438500,
+            "latTo": 53.630278,
+            "dTime": 1549442100,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549445700,
+            "last_seen": 1530658825
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcBqVbM5wSFt3ElUNsAoqtxObks60QHKoBR9KN0aCQh+Hb9Gvw19gSMjwiDNLjHN4aHem3W8JTnMMAOWHe5t3tLlBUWCWNjHyGfQhjuPLW7d6nAHDH4FngtMbdW6nB7ijHDdg2uRa9x+UepAybFRMlbdzXW4R/ImVsNOOZX+v2NW8fCtQEay3bByRnFXq2C5AmEjUSNNGsvCRFKOPBx07H6+SCUCjMZrOa308kgHehf1I="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "morning",
+          "sunday",
+          "direct",
+          "duration:7-8",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3956043433554454_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549194900,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549169400,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549183800,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549198500,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 59,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3956043433554454_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530673056,
+            "source": "deprecated",
+            "combination_id": "3956043433554454",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "77W",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549194900,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549169400,
+            "latTo": 53.630278,
+            "dTime": 1549183800,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549198500,
+            "last_seen": 1530673056
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "thursday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4042904656320036_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549528500,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549524900,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549528500,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549532100,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4042904656320036_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530593876,
+            "source": "deprecated",
+            "combination_id": "4042904656320036",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549528500,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549524900,
+            "latTo": 53.630278,
+            "dTime": 1549528500,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549532100,
+            "last_seen": 1530593876
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcBqVbM5wSFt3ElUNsAoqtxObks60QHKoBR9KN0aCQh+Eljd+Gw4YB0XmHjYGcm5QUl0xy5+S1XBPCobgJOeEg4JRClYDYMKdOPU2vgPdkFGzOppgtmxRKQaalkbiBV4Q6zMNgbsIWlC4TdKm11bPxq7ikBDo7V9YdW1nbEEMrv+UvEcaO4F1gL0i9QOz/aaNciJhEnqa2NV7aHxyQb4WScDSf+egOj2KktV5ahWjPukM="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "morning",
+          "sunday",
+          "direct",
+          "duration:7-8",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3956043433554454_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549194900,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549169400,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549183800,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549198500,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 59,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3956043433554454_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530673056,
+            "source": "deprecated",
+            "combination_id": "3956043433554454",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "77W",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549194900,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549169400,
+            "latTo": 53.630278,
+            "dTime": 1549183800,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549198500,
+            "last_seen": 1530673056
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "friday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4006621072880590_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1550219700,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1550216100,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1550219700,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1550223300,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4006621072880590_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530692394,
+            "source": "deprecated",
+            "combination_id": "4006621072880590",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1550219700,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1550216100,
+            "latTo": 53.630278,
+            "dTime": 1550219700,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1550223300,
+            "last_seen": 1530692394
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcBqVbM5wSFt3ElUNsAoqtxObks60QHKoBR9KN0aCQh+HRle9GHuMNAPoGvtUMVkhIYGiqzHgbWN5aG/6Cx4o6FnlFjTTunK/DJ8IstpF37OrSy6fxQR5kzJINJrx/LeK/u678ipA0APHQOO8eodYmNGHwhZ+sbfTvr1J3xrIBFzpcC2LiMt7ndelm0SR2naPVHLghWwkile4DHjEUo+H5joNm7mT7JeizChvWaokJVCs="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "morning",
+          "sunday",
+          "direct",
+          "duration:7-8",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3956043433554454_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549194900,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549169400,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549183800,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549198500,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 59,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3956043433554454_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530673056,
+            "source": "deprecated",
+            "combination_id": "3956043433554454",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "77W",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549194900,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549169400,
+            "latTo": 53.630278,
+            "dTime": 1549183800,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549198500,
+            "last_seen": 1530673056
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "tuesday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "3985730347111759_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549960500,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549956900,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549960500,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549964100,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "3985730347111759_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530584996,
+            "source": "deprecated",
+            "combination_id": "3985730347111759",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549960500,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549956900,
+            "latTo": 53.630278,
+            "dTime": 1549960500,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549964100,
+            "last_seen": 1530584996
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcBqVbM5wSFt3ElUNsAoqtxObks60QHKoBR9KN0aCQh+E0p066JRUMDnhEU2FbGRX7WOU3Wn+kLRqqtTMFDauN+HvGX6pF6WR1oOSX9jfNri3nhuokC0tYvVVVtkrova/lmC7nm2o2yxSR5VAZ5uggJXV57duYz327f83o/Q5hIQZS1onvg4vMiRJszE3VzyZWzeMsh6PDkwC4zPtmyUjq4EZL2wIxcSqt3Cip9y/KO0U="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "afternoon",
+          "sunday",
+          "direct",
+          "duration:7-8",
+          "departure:15-16"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "4075889731777054_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549217100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549191600,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549206000,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549220700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 61,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "4075889731777054_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530673056,
+            "source": "deprecated",
+            "combination_id": "4075889731777054",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "388",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549217100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549191600,
+            "latTo": 53.630278,
+            "dTime": 1549206000,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549220700,
+            "last_seen": 1530673056
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "monday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4236418332077509_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549874100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549870500,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549874100,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549877700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4236418332077509_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530659384,
+            "source": "deprecated",
+            "combination_id": "4236418332077509",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549874100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549870500,
+            "latTo": 53.630278,
+            "dTime": 1549874100,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549877700,
+            "last_seen": 1530659384
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcsOKhdOzucYshItA5f6IYg+QwfvZ43zfHjKs4rltxPUBrYIR7GKEv/aLvL+IAikktVZsiweK6ujf3kAocxXQhaaeb3QEWoa9KknwzEWWTVvLKqnH7mOPgsuC6jz8GZwrfRylA8g0ok/6KGYvxzH9MKH243Hs4W/0xQlEzn9brQTUGVVhZh344Fjc+reevPR33xloyXVKMnh174tAAfrnmAXrK6+506WdiAqVYltiqwp0="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "afternoon",
+          "sunday",
+          "direct",
+          "duration:7-8",
+          "departure:15-16"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "4075889731777054_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549217100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549191600,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549206000,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549220700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 61,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "4075889731777054_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530673056,
+            "source": "deprecated",
+            "combination_id": "4075889731777054",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "388",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549217100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549191600,
+            "latTo": 53.630278,
+            "dTime": 1549206000,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549220700,
+            "last_seen": 1530673056
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "wednesday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4034108693878404_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549442100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549438500,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549442100,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549445700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4034108693878404_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530658826,
+            "source": "deprecated",
+            "combination_id": "4034108693878404",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549442100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549438500,
+            "latTo": 53.630278,
+            "dTime": 1549442100,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549445700,
+            "last_seen": 1530658825
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcsOKhdOzucYshItA5f6IYg+QwfvZ43zfHjKs4rltxPUDN3w7FEiOKdfKhA/lkv29NRALE260cVIP6SrvOynvGraFL30u6jqi4iszNRWMDQdzE8lKrdFJB8nOVgemwMEKq9/3MmAxhAuU4ShKeTRtDmIc9vG8TsforbU9aYpqKm9J1z2hdjmUojVGlfHE3GpgY96ZTbdib57fZdVfPm2EeUjigGLzHPQowlEYvkPd+FtE="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "afternoon",
+          "sunday",
+          "direct",
+          "duration:7-8",
+          "departure:15-16"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "4075889731777054_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549217100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549191600,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549206000,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549220700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 61,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "4075889731777054_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530673056,
+            "source": "deprecated",
+            "combination_id": "4075889731777054",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "388",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549217100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549191600,
+            "latTo": 53.630278,
+            "dTime": 1549206000,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549220700,
+            "last_seen": 1530673056
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "thursday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4042904656320036_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549528500,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549524900,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549528500,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549532100,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4042904656320036_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530593876,
+            "source": "deprecated",
+            "combination_id": "4042904656320036",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549528500,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549524900,
+            "latTo": 53.630278,
+            "dTime": 1549528500,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549532100,
+            "last_seen": 1530593876
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcsOKhdOzucYshItA5f6IYg+QwfvZ43zfHjKs4rltxPUA7e7d+hOeC6gWAUzi72HN3k8rxWOW06FZ9K5W2nrakzoqznDmyhEcAcwMfI6mD3HOD+wxfny5xk9JdDR322JquurDxXptIwEaYJlAtNRI6xfiQYG9Y/ao05i/GNVNSdaamXdjg51kvF9wrJuQi4rxDC3OogGP0Zolo5e04HLI/1jSfG3Ciu23P0DCdoUKCLLk="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "afternoon",
+          "sunday",
+          "direct",
+          "duration:7-8",
+          "departure:15-16"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "4075889731777054_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549217100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549191600,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549206000,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549220700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 61,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "4075889731777054_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530673056,
+            "source": "deprecated",
+            "combination_id": "4075889731777054",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "388",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549217100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549191600,
+            "latTo": 53.630278,
+            "dTime": 1549206000,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549220700,
+            "last_seen": 1530673056
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "friday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4006621072880590_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1550219700,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1550216100,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1550219700,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1550223300,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4006621072880590_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530692394,
+            "source": "deprecated",
+            "combination_id": "4006621072880590",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1550219700,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1550216100,
+            "latTo": 53.630278,
+            "dTime": 1550219700,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1550223300,
+            "last_seen": 1530692394
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcsOKhdOzucYshItA5f6IYg+QwfvZ43zfHjKs4rltxPUDfTOzHPZwHjyo0jliH2/iAUci0OkE4lxXtjAaKTUZb/PI72j6Fs7KkF/uj9Y9xra58l2proGQhe9fBkG7tm0k7xODhDT9dnR25WtnZlC6gFiroR0trLYZRIBjz1zVHJcl83LehOr3n3h4p8hBmT1Nc3dKBy/B/KR3rtkzlRlnISyTgIb1CC5xiPi5OCw0gMxc="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "afternoon",
+          "sunday",
+          "direct",
+          "duration:7-8",
+          "departure:15-16"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "4075889731777054_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549217100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549191600,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549206000,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549220700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 61,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "4075889731777054_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530673056,
+            "source": "deprecated",
+            "combination_id": "4075889731777054",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "388",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549217100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549191600,
+            "latTo": 53.630278,
+            "dTime": 1549206000,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549220700,
+            "last_seen": 1530673056
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "tuesday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "3985730347111759_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549960500,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549956900,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549960500,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549964100,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "3985730347111759_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530584996,
+            "source": "deprecated",
+            "combination_id": "3985730347111759",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549960500,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549956900,
+            "latTo": 53.630278,
+            "dTime": 1549960500,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549964100,
+            "last_seen": 1530584996
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcsOKhdOzucYshItA5f6IYg+QwfvZ43zfHjKs4rltxPUCLIMnWu19g4Ncf/6kOH8yzREHRnC0Pp4Ku6DF0avMuFPikfn2MXcr+cBGLPVGY5dnXBSvXE04Cja54oqsNyZWLrrn6198ZOoRJ4T4/5bXAGS9ZtgY8k3EomEgGMjhHspSWr6Qs2Yva0jaALEyj6z6C3yjPBGzs7iDVRX1LVu1HY66SNzDqSmskIMuocJ+fQ1g="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "morning",
+          "friday",
+          "direct",
+          "duration:7-8",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3974735115225632_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549022100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1548996600,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549011000,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549025700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 59,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3974735115225632_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530671246,
+            "source": "deprecated",
+            "combination_id": "3974735115225632",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "77W",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549022100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1548996600,
+            "latTo": 53.630278,
+            "dTime": 1549011000,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549025700,
+            "last_seen": 1530671245
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "monday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4236418332077509_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549874100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549870500,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549874100,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549877700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4236418332077509_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530659384,
+            "source": "deprecated",
+            "combination_id": "4236418332077509",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549874100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549870500,
+            "latTo": 53.630278,
+            "dTime": 1549874100,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549877700,
+            "last_seen": 1530659384
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcJystDocj3FVohH6O4A8W9rHEtoZBSc43KYP95hHRFqkCaYf7A+SinRlowGOx2RqeEO+E2z/leczbuUSBurhL4dfzxN+RjOkxFwZESH0YaYS1TQwiSSsle/RwIaMWNtf19VV73Emo5n5kN4zc+sIJtXWjZcBm/3KzqIyK/lpQruTfUHsgA8jc+Yzdg3O/C+j2pCwuPgj6ezj2pZN4ko8iiuogGy7IdMy3JCKlkIgabQ4="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "morning",
+          "friday",
+          "direct",
+          "duration:7-8",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3974735115225632_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549022100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1548996600,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549011000,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549025700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 59,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3974735115225632_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530671246,
+            "source": "deprecated",
+            "combination_id": "3974735115225632",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "77W",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549022100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1548996600,
+            "latTo": 53.630278,
+            "dTime": 1549011000,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549025700,
+            "last_seen": 1530671245
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "wednesday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4034108693878404_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549442100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549438500,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549442100,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549445700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4034108693878404_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530658826,
+            "source": "deprecated",
+            "combination_id": "4034108693878404",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549442100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549438500,
+            "latTo": 53.630278,
+            "dTime": 1549442100,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549445700,
+            "last_seen": 1530658825
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcJystDocj3FVohH6O4A8W9rHEtoZBSc43KYP95hHRFqkoTociPoL6YaV1wd4hkEkUPGXyvrcdOsqDDROYjyMkOXYMfDpvEJ/zUC+TwRbhvMABtFnRE8NJjZdBYSTYAqjEEdkMdn5qQiZDbTUeM/WQZCUfdVCkXJz3Pi4pVoaMGFcqosc4+6IMI2NsO9Tkj5DgcpT/uoT7nYrbNXp6Xdz0NN7dPdXDlI3v/twoC0ic+h4="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "morning",
+          "friday",
+          "direct",
+          "duration:7-8",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3974735115225632_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549022100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1548996600,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549011000,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549025700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 59,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3974735115225632_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530671246,
+            "source": "deprecated",
+            "combination_id": "3974735115225632",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "77W",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549022100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1548996600,
+            "latTo": 53.630278,
+            "dTime": 1549011000,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549025700,
+            "last_seen": 1530671245
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "thursday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4042904656320036_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549528500,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549524900,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549528500,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549532100,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4042904656320036_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530593876,
+            "source": "deprecated",
+            "combination_id": "4042904656320036",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549528500,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549524900,
+            "latTo": 53.630278,
+            "dTime": 1549528500,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549532100,
+            "last_seen": 1530593876
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcJystDocj3FVohH6O4A8W9rHEtoZBSc43KYP95hHRFqkItpryoceYYwKkDIKbAmYyrRhobjLXdeuYPtb9ypCN+uy9HH1q9X4/UezVK0fjB15kFjbuYK6CdWi//kLtHIqkZnOcmXk36/XxawzLWa90/OUZpWS6DMK7yZqPIOm2p0ajvjf6dhrwIaGnUCnRgYIBIDM4U15HxiJqb9xuEg2Aq/ho5snvOOL226DCx3hfiHU="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "morning",
+          "friday",
+          "direct",
+          "duration:7-8",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3974735115225632_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549022100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1548996600,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549011000,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549025700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 59,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3974735115225632_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530671246,
+            "source": "deprecated",
+            "combination_id": "3974735115225632",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "77W",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549022100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1548996600,
+            "latTo": 53.630278,
+            "dTime": 1549011000,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549025700,
+            "last_seen": 1530671245
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "friday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4006621072880590_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1550219700,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1550216100,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1550219700,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1550223300,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4006621072880590_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530692394,
+            "source": "deprecated",
+            "combination_id": "4006621072880590",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1550219700,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1550216100,
+            "latTo": 53.630278,
+            "dTime": 1550219700,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1550223300,
+            "last_seen": 1530692394
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcJystDocj3FVohH6O4A8W9rHEtoZBSc43KYP95hHRFqlbCwwHCmfyxLp0ja9fbnzCXcbl3hGAn3RkOwHSWVzPc0n7nLzJ8HUrLwd05Y/cqwRt0U767JB4uBcByRl4U1eEf2bems0arrOWyWCHsI+zSoEnrjOr+Xw8OQIMG+Lz6ZqYIy4ZqjRnPiNJ5aSSp1OBEEo64xRir9UE3pshXOKZ81aPrV6fa4hNj8XzTPpaxng="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "morning",
+          "friday",
+          "direct",
+          "duration:7-8",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3974735115225632_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549022100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1548996600,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549011000,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549025700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 59,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3974735115225632_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530671246,
+            "source": "deprecated",
+            "combination_id": "3974735115225632",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "77W",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549022100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1548996600,
+            "latTo": 53.630278,
+            "dTime": 1549011000,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549025700,
+            "last_seen": 1530671245
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "tuesday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "3985730347111759_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549960500,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549956900,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549960500,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549964100,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "3985730347111759_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530584996,
+            "source": "deprecated",
+            "combination_id": "3985730347111759",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549960500,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549956900,
+            "latTo": 53.630278,
+            "dTime": 1549960500,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549964100,
+            "last_seen": 1530584996
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWcJystDocj3FVohH6O4A8W9rHEtoZBSc43KYP95hHRFqkTGdmTZhRxySbdWRDGNMSbaYs0gIlUT+VWqGPvN40Np+aKPdjT7medFOTVX+k/0sDoAGkvhW4uF9OR6TRg/PloseNONwfm2H1NlSrChKZThYgitqsp7vcvcuLjIUzzzoXwVr4jtpIQp4xj4tWnifaoySmBHKwdubNxNnXn94HGikEoxAvmZIFUZeoFRS69ju8="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "afternoon",
+          "friday",
+          "direct",
+          "duration:7-8",
+          "departure:15-16"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3962640474000606_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549649100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549623600,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549638000,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549652700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 61,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3962640474000606_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530671834,
+            "source": "deprecated",
+            "combination_id": "3962640474000606",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "388",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549649100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549623600,
+            "latTo": 53.630278,
+            "dTime": 1549638000,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549652700,
+            "last_seen": 1530671834
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "monday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4236418332077509_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549874100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549870500,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549874100,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549877700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4236418332077509_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530659384,
+            "source": "deprecated",
+            "combination_id": "4236418332077509",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549874100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549870500,
+            "latTo": 53.630278,
+            "dTime": 1549874100,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549877700,
+            "last_seen": 1530659384
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWceBN61EiQpCz4WzrCYRX1/axW1tICC/TZxkrpPgYuUIv5hD11ueYqSTci4VfXN8ykne5u77GPa60Y26k80GwaZpRFL97o/jCAGn1YVr5+pmbNmq/HW018O3d9kvSYTGSPh5Sp+zo7huk8iqJ4prZXUk0AgVio4xWOvFqNnZruZ1yNszfV3nDXTI8YAyb7eptepBdKw7744pMa+5Rtbp2B3d0zOGs8DjHLN6tuGaSv6qU="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "afternoon",
+          "friday",
+          "direct",
+          "duration:7-8",
+          "departure:15-16"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3962640474000606_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549649100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549623600,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549638000,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549652700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 61,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3962640474000606_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530671834,
+            "source": "deprecated",
+            "combination_id": "3962640474000606",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "388",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549649100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549623600,
+            "latTo": 53.630278,
+            "dTime": 1549638000,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549652700,
+            "last_seen": 1530671834
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "friday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4006621072880590_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1550219700,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1550216100,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1550219700,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1550223300,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4006621072880590_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530692394,
+            "source": "deprecated",
+            "combination_id": "4006621072880590",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1550219700,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1550216100,
+            "latTo": 53.630278,
+            "dTime": 1550219700,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1550223300,
+            "last_seen": 1530692394
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWceBN61EiQpCz4WzrCYRX1/axW1tICC/TZxkrpPgYuUIuF5tOQHDPUQAMxX7+ZBhm/oiezTxV70UfG1dmo42K0pKiVTExU+J0e4upAHBVgV1NuELyIFmS2ncaNuwuN4ULvH0EAji3zjfPINO+0TFnEExdH40Cczs2vn/cSjTpkUW8vaLuDoEy641KDcLKyCIl9kSXxNUvy3oHZToh4psDz2KP0YORBxHbP7Dr6MquUfv4="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "afternoon",
+          "friday",
+          "direct",
+          "duration:7-8",
+          "departure:15-16"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3962640474000606_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549649100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549623600,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549638000,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549652700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 61,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3962640474000606_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530671834,
+            "source": "deprecated",
+            "combination_id": "3962640474000606",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "388",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549649100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549623600,
+            "latTo": 53.630278,
+            "dTime": 1549638000,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549652700,
+            "last_seen": 1530671834
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "tuesday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "3985730347111759_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549960500,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549956900,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549960500,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549964100,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "3985730347111759_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530584996,
+            "source": "deprecated",
+            "combination_id": "3985730347111759",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549960500,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549956900,
+            "latTo": 53.630278,
+            "dTime": 1549960500,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549964100,
+            "last_seen": 1530584996
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWceBN61EiQpCz4WzrCYRX1/axW1tICC/TZxkrpPgYuUIvWpM7A2J02eEOBTIQt1giZDxMpvUzhYnYn9mNioBaQlPnyjaMUXsj4jRyS8iOopiZjHRLpAiUNzR++f0yt7bx+CgnusYC2CmiGSxwUiF58+KaSrkK4NjX4EJ+M49bdgzfSTqmElM42OE/24p5224RDzXaQjxYgvWajQGfqVpe9Lf1d1cFFG/wOjYlaRVbFfg4="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "morning",
+          "friday",
+          "direct",
+          "duration:7-8",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3962640474000608_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549626900,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549601400,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549615800,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549630500,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 59,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3962640474000608_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530671834,
+            "source": "deprecated",
+            "combination_id": "3962640474000608",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "77W",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549626900,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549601400,
+            "latTo": 53.630278,
+            "dTime": 1549615800,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549630500,
+            "last_seen": 1530671834
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "monday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4236418332077509_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549874100,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549870500,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549874100,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549877700,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4236418332077509_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530659384,
+            "source": "deprecated",
+            "combination_id": "4236418332077509",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549874100,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549870500,
+            "latTo": 53.630278,
+            "dTime": 1549874100,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549877700,
+            "last_seen": 1530659384
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWceBN61EiQpCz4WzrCYRX1/fJIybfA4sxiOpLL11YoTNWEEm36g6lIEl967a6SsZxlheTFipyPGr3U3ihBsZrRww9eAbfAm0n+P4K7Nj5UjhdpLZbHa5UXc/aGrejGXYopMzMtmomIopkXTtH19pL98B3vlblPj7pU8U7L5/cy+L0fsYx63CYrL/BqidVJRW86jQSkpbrYVopgrXJLjixI2RueBaWx9WsfoaLcLFr0Q18="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "morning",
+          "friday",
+          "direct",
+          "duration:7-8",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3962640474000608_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549626900,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549601400,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549615800,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549630500,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 59,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3962640474000608_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530671834,
+            "source": "deprecated",
+            "combination_id": "3962640474000608",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "77W",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549626900,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549601400,
+            "latTo": 53.630278,
+            "dTime": 1549615800,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549630500,
+            "last_seen": 1530671834
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "friday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "4006621072880590_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1550219700,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1550216100,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1550219700,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1550223300,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "4006621072880590_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530692394,
+            "source": "deprecated",
+            "combination_id": "4006621072880590",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1550219700,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1550216100,
+            "latTo": 53.630278,
+            "dTime": 1550219700,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1550223300,
+            "last_seen": 1530692394
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWceBN61EiQpCz4WzrCYRX1/fJIybfA4sxiOpLL11YoTNUGQRVHQ36fXcGTUqA1K7QZTRWPmRrRTC+HEtK0780zNK+pn7CJHjVxkTSPOc/OTTMH0sng+hYWy5Z7onTWnwKeIH9XSvPEkvkVwiFFYpBo7gqGRz0Cl0Mhq8Yc0CQlDJIQ30iRGgTUyguK0Pjoie3Uew4owAB3PDWZvC1L5lnD25AnVEsrpR+Z+k56Rfp/93w="
+  },
+  {
+    "price": 720.0,
+    "deep_link": "",
+    "route": [
+      {
+        "mapIdfrom": "dubai",
+        "hashtags": [
+          "morning",
+          "friday",
+          "direct",
+          "duration:7-8",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 25500,
+          "return": 0,
+          "departure": 25500
+        },
+        "quality": 739.6664949999999,
+        "id": "3962640474000608_0",
+        "conversion": {
+          "EUR": 671
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "DXB",
+        "airlines": [
+          "EK"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "7h 5m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 38,
+          "hand_length": 55,
+          "hand_weight": 7,
+          "hand_height": 20,
+          "hold_weight": 20
+        },
+        "aTimeUTC": 1549626900,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "AE",
+          "name": "United Arab Emirates"
+        },
+        "price": 671,
+        "bags_price": {
+          "1": 0.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549601400,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549615800,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "DXB",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Dubai",
+        "aTime": 1549630500,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "dubai",
+            "flight_no": 59,
+            "original_return": 0,
+            "lngFrom": 55.364444,
+            "id": "3962640474000608_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530671834,
+            "source": "deprecated",
+            "combination_id": "3962640474000608",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": "77W",
+            "latFrom": 25.252778,
+            "lngTo": 9.988333,
+            "fare_basis": "",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549626900,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": "EK",
+            "fare_classes": "",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "DXB",
+            "dTimeUTC": 1549601400,
+            "latTo": 53.630278,
+            "dTime": 1549615800,
+            "found_on": "deprecated",
+            "airline": "EK",
+            "cityFrom": "Dubai",
+            "aTime": 1549630500,
+            "last_seen": 1530671834
+          }
+        ],
+        "distance": 4889.57
+      },
+      {
+        "mapIdfrom": "amsterdam",
+        "hashtags": [
+          "morning",
+          "tuesday",
+          "direct",
+          "duration:1-2",
+          "departure:8-9"
+        ],
+        "duration": {
+          "total": 3600,
+          "return": 0,
+          "departure": 3600
+        },
+        "quality": 68.99995,
+        "id": "3985730347111759_0",
+        "conversion": {
+          "EUR": 49
+        },
+        "mapIdto": "hamburg",
+        "flyFrom": "AMS",
+        "airlines": [
+          "EW"
+        ],
+        "flyTo": "HAM",
+        "pnr_count": 1,
+        "fly_duration": "1h 0m",
+        "countryTo": {
+          "code": "DE",
+          "name": "Germany"
+        },
+        "baglimit": {
+          "hand_width": 40,
+          "hand_length": 55,
+          "hand_weight": 8,
+          "hand_height": 23,
+          "hold_weight": 23
+        },
+        "aTimeUTC": 1549960500,
+        "has_airport_change": false,
+        "countryFrom": {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        "price": 49,
+        "bags_price": {
+          "1": 22.0,
+          "2": 97.0
+        },
+        "cityTo": "Hamburg",
+        "transfers": [
+
+        ],
+        "nightsInDest": null,
+        "dTimeUTC": 1549956900,
+        "p2": 1,
+        "p3": 1,
+        "p1": 1,
+        "dTime": 1549960500,
+        "found_on": [
+          "deprecated"
+        ],
+        "facilitated_booking_available": false,
+        "routes": [
+          [
+            "AMS",
+            "HAM"
+          ]
+        ],
+        "cityFrom": "Amsterdam",
+        "aTime": 1549964100,
+        "route": [
+          {
+            "bags_recheck_required": false,
+            "mapIdfrom": "amsterdam",
+            "flight_no": 7181,
+            "original_return": 0,
+            "lngFrom": 4.764167,
+            "id": "3985730347111759_0",
+            "guarantee": false,
+            "refresh_timestamp": 1530584996,
+            "source": "deprecated",
+            "combination_id": "3985730347111759",
+            "fare_family": "",
+            "flyTo": "HAM",
+            "equipment": null,
+            "latFrom": 52.308056,
+            "lngTo": 9.988333,
+            "fare_basis": "E",
+            "mapIdto": "hamburg",
+            "aTimeUTC": 1549960500,
+            "return": 0,
+            "price": 1,
+            "operating_carrier": null,
+            "fare_classes": "E",
+            "cityTo": "Hamburg",
+            "vehicle_type": "aircraft",
+            "flyFrom": "AMS",
+            "dTimeUTC": 1549956900,
+            "latTo": 53.630278,
+            "dTime": 1549960500,
+            "found_on": "deprecated",
+            "airline": "EW",
+            "cityFrom": "Amsterdam",
+            "aTime": 1549964100,
+            "last_seen": 1530584996
+          }
+        ],
+        "distance": 379.78
+      }
+    ],
+    "booking_token": "sFs2Wc2jDhgBWRq71XyP+ddXOb3oY4DD41dcsk9lWrV+onT5Zx/zTeBTBCJS1N2rUFRRpgDAY/VJeNVRFJUJCaWZcsNGqw0scIGu6VGqf5Y05/ZE04GwEd3T+aEWKEWD25SCknpv8PoYPCGq4UbJ6VBdeJSoebKCX34uihikU/F0YVVxBEjqZBCpL0R6nOGglwBHlhEjoyQ/SYNACh9+h9Dvg3hwN2v/V4pFR2kHSI4LIVPrmW192yUkmpCq+FMZ2GRZFRd3A3+y3kknrhJoRNWrY9iAxB/yY8igSQfuPgRdJfW73rP8omu+BJ8vMCWceBN61EiQpCz4WzrCYRX1/fJIybfA4sxiOpLL11YoTNV+fIJIOHsj615et/rQyNuPds1C4fHpDvCkb8qVpGK7M5k2vGY3PsAu1bEiWXeAFCqeL/WtIL1Inmt2M9T9Ky8GEa/68BK2jmgGtSMmbmquTli5hOcc4rZ3uCYxnjeyyvayFAkt3CWTEtUbkUdqGID9LpFg7N/cirNSNJL/MeVQFqRSVA03+UfZpLXNz7/YZqY="
+  }
+]

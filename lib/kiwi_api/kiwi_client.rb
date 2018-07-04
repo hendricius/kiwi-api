@@ -3,65 +3,111 @@ require 'json'
 require 'date'
 require 'faraday'
 require_relative 'flight_result'
+require_relative 'batch_result'
 require_relative 'helpers/core_helper'
 
 module KiwiApi
-  module Client
+  class ApiError < StandardError
+    def initialize(msg, response: nil, original_exception: nil)
+      @response           = response
+      @original_exception = original_exception
+    end
+    attr_reader :response, :original_exception
+  end
+
+  class Client
     KIWI_BASE_URL = 'https://api.skypicker.com'
     KIWI_FLIGHTS_PATH = '/flights'
-    KIWI_PLACES_PATH = '/places'
+    KIWI_FLIGHTS_MULTI_PATH = '/flights_multi'
+
+    def initialize(params: {})
+      @params = params
+    end
+    attr_reader :params
 
     # Returns a list of flight results.
     #
-    #   Both snaked_case (:date_to =>) and camelCase (:dateTo =>) keys are accepted for the extra
-    #   query params.
+    # Example:
+    #
+    # KiwiApi::Client.search_flights(fly_from: 'AMS', to: 'IBZ', date_from: '23/08/2017',
+    #                                date_to: '01/09/2017', extra_params: {direct_flights: 1})
+    #
+    def self.search_flights(fly_from:, fly_to:, date_from:, **options)
+      params = {fly_from: fly_from, fly_to: fly_to, date_from: date_from}
+      new(params: options.merge(params)).search_flights
+    end
+
+    # Returns a list of flight results.
     #
     # Example:
     #
-    #   KiwiApi::Client.search_flights('AMS', 'IBZ', '23/08/2017', {date_to: '01/09/2017'})
-    #
-    # @param [String] fly_from Skypicker API id of the departure location. It might be airport codes,
-    #   city IDs, two letter country codes, metropolitan codes and radiuses. Example 'AMS'
-    #
-    # @param [String] to Skypicker api id of the arrival destination. Accepts the same values in the
-    #   same format as fly_from parameter. If you don't include any value you'll get results for all the
-    #   airports in the world. Example 'IBZ'
-    #
-    # @param [String] date_from search flights from this date (dd/mm/YYYY). Example: '23/08/2017'
-    #
-    # @param [Hash] extra_params to be added to the search query.
-    # @option extra_params [String] :date_to the end date (dd/mm/YYYY) to find the departures flights.
-    #   If missing, it will be set to the same value as date_from.
-    # @option extra_params [Integer] :direct_flights default to 1 (only direct flights), 0 value for
-    #   including non-direct flights.
-    # @option extra_params [Integer] :fly_Days it filters the days of the week to flight, starting by
-    #   0 for Sundays. Example flyDays: 5 (for only Fridays flights).
-    #
-    # @see http://docs.skypickerpublicapi.apiary.io/#reference/flights/flights/get for full list of
-    #   extra params.
-    #
-    # @return [FlightResult] returns an array of FlightResult
-    def self.search_flights(fly_from, to, date_from, extra_params = {})
-      conn = Faraday.new(KIWI_BASE_URL)
+    # KiwiApi::Client.batch_search_flights([{fly_from: 'AMS', to: 'IBZ',
+    #                                       date_from: '23/08/2017',
+    #                                       date_to: '01/09/2017', {direct_flights: 1}])
+    def self.batch_search_flights(request_params)
+      new(params: request_params).batch_search_flights
+    end
 
-      params = {
-        fly_from: fly_from,
-        to: to,
-        date_from: date_from,
-        date_to: extra_params[:date_to] || date_from,
+    def search_flights
+      data = {
         direct_flights: 1,
-      }.merge(extra_params)
+      }.merge(params)
 
-      params = CoreHelper.camelize_keys(params)
+      response = request(params: CoreHelper.camelize_keys(data), endpoint: KIWI_FLIGHTS_PATH)
+      response[:data].map { |flight_result_hash| FlightResult.new(flight_result_hash)}
+    end
 
-      response = conn.get(KIWI_FLIGHTS_PATH, params)
+    def batch_search_flights
+      request_params = params.map do |param|
+        camelize(param.merge(direct_flights: 1))
+      end
 
+      endpoint = "/flights_multi"
+
+      final_result = []
+      request_params.each_slice(3) do |slice|
+        response = request(params: {requests: slice}, endpoint: endpoint, method: :post)
+        slice.each_with_index do |request, index|
+          # handle response differently. quirks.
+          results = slice.length > 1 ? response : response.first
+          results = results.map { |resp| resp[:route][index] }.compact
+          converted = results.map { |result| FlightResult.new(result) }
+          final_result << BatchResult.new(request: request, results: converted)
+        end
+      end
+      final_result
+    end
+
+    private
+
+    def request(params:, endpoint:, method: :get)
+      request_data_from_api(params: params, endpoint: endpoint, method: method)
+    rescue Faraday::Error => e
+      raise ApiError.new("HTTP error", original_exception: e)
+    end
+
+    def request_data_from_api(params:, endpoint:, method: :get)
+      conn     = Faraday.new(KIWI_BASE_URL)
+      response = conn.send(method) do |req|
+        req.url endpoint
+        req.body = params.to_json
+        req.headers['Content-Type'] = 'application/json'
+      end
       if response.success?
-        JSON.parse(response.body)['data'].map { |flight_result_hash| FlightResult.new(flight_result_hash)}
+        parse_response(response.body)
       else
-        raise "Something went wrong."
+        raise ApiError.new("Response has invalid format", response: response)
       end
     end
 
+    def parse_response(response_body)
+      JSON.parse(response_body, symbolize_names: true)
+    end
+
+    def camelize(hash)
+      CoreHelper.camelize_keys(hash)
+    end
   end
 end
+
+
