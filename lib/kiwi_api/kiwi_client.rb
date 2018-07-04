@@ -69,8 +69,11 @@ module KiwiApi
         response = request(params: {requests: slice}, endpoint: endpoint, method: :post)
         slice.each_with_index do |request, index|
           # handle response differently. quirks.
-          results = slice.length > 1 ? response : response.first
-          results = results.map { |resp| resp[:route][index] }.compact
+          if slice.length > 1
+            results = response.map { |resp| resp[:route][index] }.compact
+          else
+            results = response.first
+          end
           converted = results.map { |result| FlightResult.new(result) }
           final_result << BatchResult.new(request: request, results: converted)
         end
