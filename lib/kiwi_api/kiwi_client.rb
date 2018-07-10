@@ -33,7 +33,7 @@ module KiwiApi
     #                                date_to: '01/09/2017', extra_params: {direct_flights: 1})
     #
     def self.search_flights(fly_from:, fly_to:, date_from:, **options)
-      params = {fly_from: fly_from, fly_to: fly_to, date_from: date_from}
+      params = {fly_from: fly_from, to: fly_to, date_from: date_from}
       new(params: options.merge(params)).search_flights
     end
 
@@ -62,11 +62,9 @@ module KiwiApi
         camelize(param.merge(direct_flights: 1))
       end
 
-      endpoint = "/flights_multi"
-
       final_result = []
       request_params.each_slice(3) do |slice|
-        response = request(params: {requests: slice}, endpoint: endpoint, method: :post)
+        response = request(params: {requests: slice}, endpoint: KIWI_FLIGHTS_MULTI_PATH, method: :post)
         slice.each_with_index do |request, index|
           # handle response differently. quirks.
           if slice.length > 1
@@ -92,8 +90,8 @@ module KiwiApi
     def request_data_from_api(params:, endpoint:, method: :get)
       conn     = Faraday.new(KIWI_BASE_URL)
       response = conn.send(method) do |req|
-        req.url endpoint
-        req.body = params.to_json
+        req.url endpoint, (method == :get ? params : {})
+        req.body = params.to_json if method == :post
         req.headers['Content-Type'] = 'application/json'
       end
       if response.success?
